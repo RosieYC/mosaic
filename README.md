@@ -1,3 +1,3 @@
 # mosaic
-from https://github.com/ultralytics/yolov5
-check how mosaic works 
+from https://github.com/ultralytics/yolov5 
+<br>check how mosaic works 
